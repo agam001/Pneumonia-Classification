@@ -3,7 +3,7 @@
 Structure of Identity and Convolutional block
 ![identity copy](https://user-images.githubusercontent.com/42989875/113876452-6566db80-97d5-11eb-8aba-b39885c0a7a8.png)
 
-Total params: 9,458,306
+Total params: 9,458,306 <br>
 Trainable params: 9,425,922
 Non-trainable params: 32,384
 Number of layers: 266
